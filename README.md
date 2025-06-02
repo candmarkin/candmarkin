@@ -20,7 +20,7 @@
 
 ### DevOps & Others
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-[![Networking](https://img.shields.io/badge/Networking-00599C?style=flat-square&logo=cisco&logoColor=white)]
+![Networking](https://img.shields.io/badge/Networking-00599C?style=flat-square&logo=cisco&logoColor=white)
 
 ---
 
