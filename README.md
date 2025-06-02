@@ -20,35 +20,31 @@
 
 ### DevOps & Others
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-[![Networking](https://img.shields.io/badge/Let's_Connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]
+[![Networking](https://img.shields.io/badge/Networking-00599C?style=flat-square&logo=cisco&logoColor=white)]
 
 ---
 
 ## 🔭 I'm Currently Working On
 
-- **[Revy Jobs](https://github.com/yourusername/revy-jobs-app)** - Managment web system for IT leasing and refurbishing companies
-- **[Blanco API Reports](https://github.com/yourusername/blanco-api-reports)** - Automated PDF report generation via REST API
-- **[Revy]** - Internal system for automating IT refurbushing processes and generating device reports
+- **[Revy Jobs](https://github.com/candmarkin/revy-jobs-app)** - Managment web system for IT leasing and refurbishing companies
+- **[Blanco API Reports](https://github.com/candmarkin/blanco-api-reports)** - Automated PDF report generation via REST API
+- **Revy** - Internal system for automating IT refurbushing processes and generating device reports
 
 ---
 
 ## 🌱 I'm Currently Learning
 
 [![React Advanced](https://img.shields.io/badge/React_Advanced-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/optimizing-performance.html)
-[![Networking](https://img.shields.io/badge/Networking-00599C?style=flat-square&logo=cisco&logoColor=white)](https://)
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6D00?style=flat-square&logo=lock&logoColor=white)](https://)
 
 - **Advanced React**  
   Performance optimization | Concurrent Mode | Server Components  
-  [![Progress](https://progress-bar.dev/65/?title=React)](https://)
 
 - **Networking Concepts**  
   SMB shares | Netbooting | Network security fundamentals  
-  [![Progress](https://progress-bar.dev/40/?title=Networking)](https://)
 
 - **Cybersecurity**  
   Ethical hacking | OWASP Top 10 | Security hardening  
-  [![Progress](https://progress-bar.dev/25/?title=Security)](https://)y
 
 ---
 
