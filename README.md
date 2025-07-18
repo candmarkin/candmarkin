@@ -64,4 +64,4 @@
 
 ---
 
-> "I turn complex problems into elegant solutions through code and data analysis."
+> "I turn complex problems into elegant solutions through code, automation and data analysis."
