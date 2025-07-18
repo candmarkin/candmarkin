@@ -49,7 +49,13 @@
   SMB shares | Netbooting | Network security fundamentals  
 
 - **Cybersecurity**  
-  Ethical hacking | OWASP Top 10 | Security hardening  
+  Ethical hacking | OWASP Top 10 | Security hardening
+
+  - **n8n**  
+  Google Sheets Integration | API integration | Schedules  
+
+- **TOTVS Protheus**  
+  ADVPL | Business Inteligence | Sales and Logisticts  
 
 ---
 
