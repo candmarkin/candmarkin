@@ -51,7 +51,7 @@
 - **Cybersecurity**  
   Ethical hacking | OWASP Top 10 | Security hardening
 
-  - **n8n**  
+- **n8n**  
   Google Sheets Integration | API integration | Schedules  
 
 - **TOTVS Protheus**  
