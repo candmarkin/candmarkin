@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marcos Candido 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/189ed68c-19ad-4c98-8ed9-7ca4897548bf" /># 👋 Hi, I'm Marcos Candido 
 
 **`Developer | Requirements Analyst | Tech Enthusiast`**
 
@@ -21,6 +21,8 @@
 ### DevOps & Others
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-00599C?style=flat-square&logo=cisco&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-ea4b71)
+
 
 ---
 
@@ -29,13 +31,14 @@
 - **[Revy Jobs](https://github.com/candmarkin/revy-jobs-app)** - Managment web system for IT leasing and refurbishing companies
 - **[Blanco API Reports](https://github.com/candmarkin/blanco-api-reports)** - Automated PDF report generation via REST API
 - **Revy** - Internal system for automating IT refurbushing processes and generating device reports
-
+- **Revy Reports** - IT Reporting automation using n8n and TOTVS Protheus that send dashboards to our clients and Sales Team.
 ---
 
 ## 🌱 I'm Currently Learning
 
 [![React Advanced](https://img.shields.io/badge/React_Advanced-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/optimizing-performance.html)
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6D00?style=flat-square&logo=lock&logoColor=white)](https://)
+[![n8n](https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n.png)]()
 
 - **Advanced React**  
   Performance optimization | Concurrent Mode | Server Components  
