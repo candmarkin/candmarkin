@@ -39,6 +39,7 @@
 [![React Advanced](https://img.shields.io/badge/React_Advanced-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/optimizing-performance.html)
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6D00?style=flat-square&logo=lock&logoColor=white)](https://)
 ![n8n](https://img.shields.io/badge/n8n-ea4b71)
+![TOTVS Protheus](https://img.shields.io/badge/TOTVS%20PROTHEUS-black)
 
 - **Advanced React**  
   Performance optimization | Concurrent Mode | Server Components  
