@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/189ed68c-19ad-4c98-8ed9-7ca4897548bf" /># 👋 Hi, I'm Marcos Candido 
+👋 Hi, I'm Marcos Candido 
 
 **`Developer | Requirements Analyst | Tech Enthusiast`**
 
