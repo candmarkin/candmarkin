@@ -38,7 +38,7 @@
 
 [![React Advanced](https://img.shields.io/badge/React_Advanced-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/optimizing-performance.html)
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6D00?style=flat-square&logo=lock&logoColor=white)](https://)
-[![n8n](https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n.png)]()
+[![n8n](https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n.png)
 
 - **Advanced React**  
   Performance optimization | Concurrent Mode | Server Components  
